@@ -1,6 +1,5 @@
 # Machine-Learning-GIS-Earth-Observations-for-Soil-loss-risk-zones-Prediction
 This project integrates machine learning algorithms, Geographic Information Systems (GIS) technology, and Earth observations data to predict soil loss risk zones. By analyzing factors such as soil type, slope, land use, climate, and vegetation cover using advanced data analytics techniques, the project aims to accurately identify areas at high risk of soil erosion. This information can then be used to implement targeted soil conservation strategies and land management practices to mitigate soil loss and preserve valuable soil resources.
 The below given is a heatmap made on the basis of soil loss by using the latitude and longitude of the region of soil loss
-![image](https://github.com/kansetejas/Machine-Learning-GIS-Earth-Observations-for-Soil-loss-risk-zones-Prediction/assets/140308686/dd961f77-680c-4494-a07b-3f5b9f3e0ef4)
-![image](https://github.com/kansetejas/Machine-Learning-GIS-Earth-Observations-for-Soil-loss-risk-zones-Prediction/assets/140308686/67254d6b-d5f6-41f7-a5a7-1c1075420d19)
-![image](https://github.com/kansetejas/Machine-Learning-GIS-Earth-Observations-for-Soil-loss-risk-zones-Prediction/assets/140308686/e563a3b3-2b84-4cd2-97a6-a6a8a4f5b977)
+![image](https://github.com/kansetejas/Machine_Learning_GIS_Earth_Observations_for_Soil_loss_risk_zones_Prediction/assets/140308686/0b109c0b-beec-4800-b041-b4ef84981e61)
+![image](https://github.com/kansetejas/Machine_Learning_GIS_Earth_Observations_for_Soil_loss_risk_zones_Prediction/assets/140308686/a2e49c94-7362-4629-8338-eae31566dec8)
